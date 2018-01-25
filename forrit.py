@@ -1,4 +1,4 @@
-import
+import os
 from bottle import route, run, static_file, request, error
 
 @route("/")
